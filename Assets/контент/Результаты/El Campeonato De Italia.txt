@@ -1,0 +1,36 @@
+﻿
+
+Bolonia
+2
+ : 
+1
+Torino
+
+
+Sampdoria
+0
+ : 
+2
+Fiorentina
+
+
+Monza
+2
+ : 
+0
+Verona
+
+
+Los romaníes
+0
+ : 
+1
+Lazio
+
+
+Juventus
+2
+ : 
+0
+El inter de milán
+
